@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CredentialManagerTest"
 include(":app")
- 
+include(":core:auth")
